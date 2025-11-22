@@ -21,5 +21,17 @@ Example of header 6
 
 
 ## 2. Images
+_Adding images to markdowm_
 
-<img width="1000" height="586" alt="Cansper Nova" src="https://github.com/user-attachments/assets/fb55db06-7406-43de-ac0c-9adfbe215bbe" />
+```md
+![Image of Casper & Nova](https://github.com/user-attachments/assets/fb55db06-7406-43de-ac0c-9adfbe215bbe)
+```
+
+<figure> 
+  <img width="1000" height="586" alt="Cansper Nova" src="https://github.com/user-attachments/assets/fb55db06-7406-43de-ac0c-9adfbe215bbe" /> 
+  <figcaptiom> 
+    <div align="center"> 
+      Casper & Nova
+    </div> 
+  </figcaptiom>
+</figure>
