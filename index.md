@@ -1,10 +1,10 @@
 # Markdown Activities
-_Communicating with Headers, Images and more_
+___Communicating with Headers, Images and more___
 
 
 
 ## 1. Headers
-_Amount of hash(#) corresponds to the header size_
+___Amount of hash(#) corresponds to the header size___
 
 Example of header 1
 > - # Example :sparkling_heart:
@@ -21,7 +21,7 @@ Example of header 6
 
 
 ## 2. Images
-_Adding images to markdowm_
+___Adding images to markdowm___
 
 ```md
 ![Image of Casper & Nova](https://github.com/user-attachments/assets/fb55db06-7406-43de-ac0c-9adfbe215bbe)
@@ -35,3 +35,18 @@ _Adding images to markdowm_
     </div> 
   </figcaptiom>
 </figure>
+
+## 3. Adding Code Example
+___Adding code snippets to markdown___
+
+Example 1
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+Example 2
+``` javascript
+var myVar = "Hello, world!";
+```
+
