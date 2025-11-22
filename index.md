@@ -6,18 +6,13 @@ ___Communicating with Headers, Images and more___
 ## 1. Headers
 ___Amount of hash(#) corresponds to the header size___
 
-Example of header 1
-> - # Example :sparkling_heart:
-Example of header 2
-> - ## Example :sparkling_heart:
-Example of header 3
-> - ### Example :sparkling_heart:
-Example of header 4
-> - #### Example :sparkling_heart:
-Example of header 5
-> - ##### Example :sparkling_heart:
-Example of header 6
-> - ###### Example :sparkling_heart:
+> # Example :sparkling_heart:
+> ## Example :sparkling_heart:
+> ### Example :sparkling_heart:
+> #### Example :sparkling_heart:
+> ##### Example :sparkling_heart:
+> ###### Example :sparkling_heart:
+
 
 
 ## 2. Images
@@ -36,6 +31,8 @@ ___Adding images to markdowm___
   </figcaptiom>
 </figure>
 
+
+
 ## 3. Adding Code Example
 ___Adding code snippets to markdown___
 
@@ -49,4 +46,18 @@ Example 2
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+
+
+## 4. Task List
+___Creating a task list for useful tracking issues and pull requests___
+
+Example
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+
+Mark [x] in markdown to check the list, leave it empty for uncheck
+
+
 
